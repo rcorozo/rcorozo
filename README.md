@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rcorozo
+- 👀 I’m interested in libre and open source software.
+- 🌱 I’m currently learning Golang.
